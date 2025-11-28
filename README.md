@@ -2,4 +2,4 @@ Download this file to any Windows computer then double click on it to run it. It
 
 The main website is here http://lexiurl.wlv.ac.uk or here https://mi-linux.wlv.ac.uk/~cm1993/lexiurl/ but it is often down, sorry.
 
-If you get the error message, "This app can't run on your PC", make sure you have downloaded the program (>2Mb) not the information page (<1Mb).  
+If you get the error message, "This app can't run on your PC", make sure you have downloaded the program (>2Mb) not the information page (<1Mb), unlike me.  
